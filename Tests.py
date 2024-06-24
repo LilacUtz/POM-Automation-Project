@@ -1,8 +1,7 @@
-import os
 import time
 from unittest import TestCase
 from selenium import webdriver
-from Locators import MainPage  # Adjust the import based on your file structure
+from Locators import MainPage
 
 
 class MainPageBoxTests(TestCase):
